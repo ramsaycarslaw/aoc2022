@@ -14,4 +14,5 @@ cargo run
 ## Leaderboard
 
 The module `leaderboard` defines a data structure that stores the `n` largest
-values of a type that implements `Ord`. It provides two getters an append and a new function.
+values of a type that implements `Ord`. It provides two getters an append and a
+new function.
